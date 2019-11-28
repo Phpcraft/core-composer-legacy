@@ -1,0 +1,10 @@
+{
+	"name": "timmyrs/phpcraft",
+	"description": "A PHP library for all things Minecraft: Java Edition.",
+	"homepage": "https://github.com/Phpcraft/core-composer-legacy",
+	"type": "library",
+	"license": "MIT",
+	"require": {
+		"craft/core": "*"
+	}
+}
